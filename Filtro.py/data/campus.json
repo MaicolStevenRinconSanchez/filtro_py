@@ -1,0 +1,70 @@
+{
+    "Movistar": {
+        "campers": {
+            "1": {
+                "NroId": "1",
+                "Nombre": "/usr/bin/python3 /home/user/Escritorio/scriptDate-mdn/main.py",
+                "Apellido": "/usr/bin/python3 /home/user/Escritorio/scriptDate-mdn/main.py",
+                "Direccion": "fdsfsd",
+                "Acudiente": {
+                    "001": {
+                        "id": "dsf",
+                        "nrotel": "sd",
+                        "nombre": "f",
+                        "email": "sdf"
+                    }
+                },
+                "Telecontacto": {
+                    "001": {
+                        "id": "1",
+                        "nrotel": "fsd",
+                        "ubicacion": ""
+                    },
+                    "002": {
+                        "id": "1",
+                        "nrotel": "f",
+                        "ubicacion": "sdf"
+                    }
+                },
+                "Estado": "Inscrito"
+            },
+            "/usr/bin/python3 /home/user/Escritorio/scriptDate-mdn/funciones/main.py": {
+                "NroId": "/usr/bin/python3 /home/user/Escritorio/scriptDate-mdn/funciones/main.py",
+                "Nombre": "2",
+                "Apellido": "gfdgdf",
+                "Direccion": "fg",
+                "Acudiente": {
+                    "001": {
+                        "id": "gdg",
+                        "nrotel": "d",
+                        "nombre": "g",
+                        "email": "df"
+                    }
+                },
+                "Telecontacto": {
+                    "001": {
+                        "id": "1",
+                        "nrotel": "fdg",
+                        "ubicacion": ""
+                    },
+                    "002": {
+                        "id": "1",
+                        "nrotel": "dfg",
+                        "ubicacion": "d"
+                    }
+                },
+                "Estado": "Inscrito"
+            }
+        },
+        "rutas": {},
+        "pruebas": {},
+        "salones": {
+            "1": {
+                "id": "1",
+                "nombre": "fsdf",
+                "capacidad": 0
+            }
+        },
+        "entrenadores": {}
+    }
+}
